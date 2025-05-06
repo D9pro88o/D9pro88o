@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D9pro88o
+- 👋 Hi, I’m Daniel Wael
 - 👀 I’m interested in building websites
 - 🌱 I’m currently learning front - end development course
 - 💞️ I’m looking to collaborate on ..
